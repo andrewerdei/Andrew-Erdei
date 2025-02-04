@@ -1,9 +1,0 @@
-{
-  "routes": [
-    "/",
-    "/about",
-    "/academic",
-    "/experience",
-    "/personal"
-  ]
-}
